@@ -25,3 +25,7 @@ console.log(recipe)
 var playlist = {johnLegend: "take me away"}
 
 console.log(playlist.johnLegend)
+
+function updatePlaylist(playlist, artist, song){
+  playlist.artist[song]
+}
