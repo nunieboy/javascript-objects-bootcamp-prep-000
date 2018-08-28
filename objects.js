@@ -29,3 +29,5 @@ console.log(playlist.johnLegend)
 function updatePlaylist(playlist, artist, song){
   playlist[artist] = song
 }
+
+function removeFromPlaylist(playlist, artist){}
