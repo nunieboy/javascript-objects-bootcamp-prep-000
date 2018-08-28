@@ -24,4 +24,4 @@ console.log(recipe)
 
 var playlist = {johnLegend: "take me away"}
 
-playlist.johnLegend
+console.log(playlist.johnLegend)
