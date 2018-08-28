@@ -1,4 +1,4 @@
-const firstmeal = "breakfast"
+const firstMeal = "breakfast"
 
 var meal = {[firstMeal]: "oatmeal"};
 
