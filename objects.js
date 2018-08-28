@@ -1,3 +1,5 @@
 const firstMeal = "breakfast"
 
-var meal = {[]
+var meal = {[firstMeal]: "oatmeal"};
+
+meal.breakfast
